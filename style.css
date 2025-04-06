@@ -93,3 +93,40 @@ body{
 .line:nth-child(4){
     margin-top: 11rem;
 }
+
+@media screen and (max-height: 869px) {
+    .img-1 {
+        position: absolute;
+        width: 3rem;
+        left: 95rem;
+        top: 51rem;
+        cursor: pointer;
+    }
+
+    .img-3 {
+        position: absolute;
+        width: 2rem;
+        left: 95rem;
+        top: 44rem;
+        cursor: pointer;
+        display: none;
+    }
+  }
+
+@media screen and (max-width: 1666px) {
+    .img-1 {
+        position: absolute;
+        width: 3rem;
+        left: 65rem;
+        top: 51rem;
+        cursor: pointer;
+    }
+
+    .img-2 {
+        position: absolute;
+        width: 2rem;
+        left: 65rem;
+        cursor: pointer;
+        display: none;
+    }
+  }
