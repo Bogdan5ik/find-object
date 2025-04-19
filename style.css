@@ -106,8 +106,8 @@ body{
     .img-3 {
         position: absolute;
         width: 2rem;
-        left: 95rem;
-        top: 44rem;
+        left: 76rem;
+        top: 43rem;
         cursor: pointer;
         display: none;
     }
@@ -118,7 +118,7 @@ body{
         position: absolute;
         width: 3rem;
         left: 65rem;
-        top: 51rem;
+        top: 41rem;
         cursor: pointer;
     }
 
